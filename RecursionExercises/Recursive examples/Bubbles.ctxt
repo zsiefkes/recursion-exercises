@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bubbles
+comment1.params=
+comment1.target=Bubbles()
+comment2.params=x\ y\ diam
+comment2.target=void\ drawBubble(double,\ double,\ double)
+comment3.params=x\ y\ n
+comment3.target=void\ drawBubbles1(double,\ double,\ int)
+comment4.params=x\ y\ n
+comment4.target=void\ drawBubbles2(double,\ double,\ int)
+comment5.params=x\ y\ n
+comment5.target=void\ drawBubbles3(double,\ double,\ int)
+comment5.text=draw\ n\ bubbles,\ starting\ at\ position\ (x,\ y),\ step\ down\ 20\ units\ between\ bubbles
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

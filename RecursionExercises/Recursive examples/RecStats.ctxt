@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RecStats
+comment1.params=
+comment1.target=RecStats()
+comment2.params=
+comment2.target=void\ makeNumbers()
+comment3.params=start\ end
+comment3.target=double\ total(int,\ int)
+comment3.text=\n\ Return\ the\ total\ of\ the\ values\ in\ numbers\ between\ start\ (inclusive)\ and\ end\ (exclusive)\n
+comment4.params=start\ end
+comment4.target=double\ totalByHalf(int,\ int)
+comment4.text=\n\ Return\ the\ total\ of\ the\ values\ in\ numbers\ between\ start\ (inclusive)\ and\ end\ (exclusive)\n
+comment5.params=start\ end
+comment5.target=double\ max(int,\ int)
+comment5.text=\n\ Return\ the\ maximum\ of\ the\ values\ in\ numbers\ between\ start\ (inclusive)\ and\ end\ (exclusive)\n
+comment6.params=start\ end
+comment6.target=double\ maxByHalf(int,\ int)
+comment6.text=\n\ Return\ the\ maximum\ of\ the\ values\ in\ numbers\ between\ start\ (inclusive)\ and\ end\ (exclusive)\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

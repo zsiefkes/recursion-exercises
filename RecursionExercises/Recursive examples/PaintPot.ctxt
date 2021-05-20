@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=PaintPot
+comment0.text=\r\n\ Does\ a\ paint\ fill\r\n
+comment1.params=
+comment1.target=PaintPot()
+comment1.text=\ \r\n\ Construct\ a\ new\ PaintPot\ object\r\n\ and\ set\ up\ the\ GUI\r\n
+comment2.params=
+comment2.target=void\ setupGUI()
+comment3.params=action\ x\ y
+comment3.target=void\ doMouse(java.lang.String,\ double,\ double)
+comment3.text=\ \r\n\ Respond\ to\ mouse\ events\r\n
+comment4.params=row\ col\ c
+comment4.target=void\ setPixel(int,\ int,\ java.awt.Color)
+comment4.text=set\ (and\ redraw)\ a\ pixel\ on\ the\ grid
+comment5.params=row\ col
+comment5.target=void\ pour(int,\ int)
+comment5.text=\r\n\ \ If\ this\ pixel\ is\ a\ different\ color\ from\ the\ current\ paint\ colour,\r\n\ \ then\ pour\ the\ paint\ on\ this\ pixel,\ and\ let\ it\ spread\ out\r\n\ \ through\ all\ adjacent\ pixels\ that\ are\ the\ same\ colour\ as\ this\ pixel\ was.\r\n
+comment6.params=row\ col\ newColor\ oldColor
+comment6.target=void\ spread(int,\ int,\ java.awt.Color,\ java.awt.Color)
+comment6.text=\r\n\ Paint\ the\ newColor\ on\ this\ pixel\ in\ place\ of\ the\ oldColor\r\n\ and\ spread\ out,\ (recursively)\ to\ its\ neighbours.\r\n
+comment7.params=
+comment7.target=void\ resetGrid()
+comment7.text=\r\n\ Set\ all\ the\ pixels\ to\ white\ (redrawing\ them)\r\n
+comment8.params=arguments
+comment8.target=void\ main(java.lang.String[])
+numComments=9

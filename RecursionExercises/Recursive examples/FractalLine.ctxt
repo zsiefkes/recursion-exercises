@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FractalLine
+comment1.params=
+comment1.target=FractalLine()
+comment2.params=action\ x\ y
+comment2.target=void\ doMouse(java.lang.String,\ double,\ double)
+comment3.params=x1\ y1\ x5\ y5
+comment3.target=void\ fractalLine(double,\ double,\ double,\ double)
+numComments=4
